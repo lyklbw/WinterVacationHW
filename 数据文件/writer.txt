@@ -1,0 +1,40 @@
+stuNumber	:001
+stuName	:罗源凯
+stuGender	:M
+:stuInstitute	:电信学院
+stuQQNum	:1512972802
+stuEmail	:1512972802@qq.com
+stuAddress	:湖南岳阳华容
+stuPhone	:19892328815
+stuGrade	:94
+
+stuNumber	:002
+stuName	:王子睿
+stuGender	:M
+:stuInstitute	:软件学院
+stuQQNum	:123654789
+stuEmail	:12654789@qq.com
+stuAddress	:湖南宁乡
+stuPhone	:178523698
+stuGrade	:91
+
+stuNumber	:003
+stuName	:罗依依
+stuGender	:F
+:stuInstitute	:材料学院
+stuQQNum	:147852369
+stuEmail	:147852369@qq.com
+stuAddress	:湖南岳阳
+stuPhone	:145236985632
+stuGrade	:94
+
+stuNumber	:005
+stuName	:张哲丰
+stuGender	:M
+:stuInstitute	:自动化学院
+stuQQNum	:1254854566
+stuEmail	:1547554522@qq.com
+stuAddress	:湖南岳阳
+stuPhone	:785412585
+stuGrade	:99
+
